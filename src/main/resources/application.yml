@@ -9,5 +9,4 @@ logging:
   level:
     root: INFO
     sql: DEBUG
-    projects.portfoliodemo: DEBUG
-
+    projects.simpleproject: DEBUG
