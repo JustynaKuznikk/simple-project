@@ -5,3 +5,9 @@ spring:
     hibernate:
       ddl-auto: create-drop
     show-sql: true
+logging:
+  level:
+    root: INFO
+    sql: DEBUG
+    projects.portfoliodemo: DEBUG
+
